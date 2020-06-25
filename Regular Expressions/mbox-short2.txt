@@ -1,0 +1,5 @@
+Form: Atoms can join together - bonds together - to make molecules.
+Fr$m:
+From: Gaur Gopal Das videos I had motivated myself
+These lines are taken from: some book
+I am doing regular expressions first program
